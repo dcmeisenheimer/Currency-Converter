@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace spring2021_pa2_dcmeisenheimer
+namespace CurrencyConverter
 {
     class Program
     {
