@@ -1,0 +1,16 @@
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\Currency-Converter.exe
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\Currency-Converter.deps.json
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\Currency-Converter.runtimeconfig.json
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\Currency-Converter.runtimeconfig.dev.json
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\Currency-Converter.dll
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\ref\Currency-Converter.dll
+C:\Source\Repos\Currency-Converter\bin\Debug\net5.0\Currency-Converter.pdb
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.csprojAssemblyReference.cache
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.AssemblyInfoInputs.cache
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.AssemblyInfo.cs
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.csproj.CoreCompileInputs.cache
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.dll
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\ref\Currency-Converter.dll
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.pdb
+C:\Source\Repos\Currency-Converter\obj\Debug\net5.0\Currency-Converter.genruntimeconfig.cache
